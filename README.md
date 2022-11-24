@@ -1,2 +1,2 @@
-# Data_Science_Project
-To broadcasd this repository on streamlit
+
+# Face Detection using OpenCV and Streamlit
